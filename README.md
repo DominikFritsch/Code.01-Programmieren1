@@ -14,9 +14,9 @@ Solutions to tasks and exercises from the lecture Programming 1 at the Universit
 | 2. | :date: | 02.05.2022 |
 | 3. | :desktop_computer: | Windows |
 | 4. | :house: | FH W-S |
-| 5. | :video_game: | Texmaker 5.1.2 |
+| 5. | :video_game: | VisualStudio2022 17.2.0 Preview 5 C++|
 | 6. | :floppy_disk: | VS.01-Programmieren1 |
-| 7. | :postbox: | VisualStudio2022 17.2.0 Preview 5 C++ |
+| 7. | :postbox: | VisualStudio |
 | 8. | :file_cabinet: | 01 |
 | 9. | :black_nib: | Programmieren1 |
 
