@@ -1,0 +1,8 @@
+﻿  Probeklausur1.cpp
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Probeklausur1\Probeklausur1.cpp(253,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Probeklausur1\Probeklausur1.cpp(268,26): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Probeklausur1.vcxproj -> C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Debug\Probeklausur1.exe

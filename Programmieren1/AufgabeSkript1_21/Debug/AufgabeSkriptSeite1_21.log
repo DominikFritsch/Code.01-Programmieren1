@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (AufgabeSkriptSeite1_21.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AufgabeSkript1_21.cpp
+  AufgabeSkriptSeite1_21.vcxproj -> C:\Users\fritsch\Documents\C++ Projects\VS2022-02-Programmieren1\Programmieren1\Debug\AufgabeSkript1_21.exe

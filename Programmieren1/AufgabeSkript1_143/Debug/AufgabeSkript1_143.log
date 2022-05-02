@@ -1,0 +1,4 @@
+﻿  AufgabeSkript1_143.cpp
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\AufgabeSkript1_143\AufgabeSkript1_143.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\AufgabeSkript1_143\AufgabeSkript1_143.cpp(45,15): warning C4101: 'tempInput': unreferenced local variable
+  AufgabeSkript1_143.vcxproj -> C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Debug\AufgabeSkript1_143.exe

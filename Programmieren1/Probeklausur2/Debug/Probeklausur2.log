@@ -1,0 +1,4 @@
+﻿  Probeklausur2.cpp
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Probeklausur2\Probeklausur2.cpp(272,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Probeklausur2\Probeklausur2.cpp(278,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Probeklausur2.vcxproj -> C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Debug\Probeklausur2.exe

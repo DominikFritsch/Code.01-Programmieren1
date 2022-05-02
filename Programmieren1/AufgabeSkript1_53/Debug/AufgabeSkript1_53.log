@@ -1,0 +1,5 @@
+﻿  AufgabeSkript1_53.cpp
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\AufgabeSkript1_53\AufgabeSkript1_53.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\AufgabeSkript1_53\AufgabeSkript1_53.cpp(67,47): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\AufgabeSkript1_53\AufgabeSkript1_53.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+  AufgabeSkript1_53.vcxproj -> C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Debug\AufgabeSkript1_53.exe
