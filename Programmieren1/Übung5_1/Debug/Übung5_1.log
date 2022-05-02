@@ -1,0 +1,5 @@
+﻿  Übung5_1.cpp
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Übung5_1\Übung5_1.cpp(57,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Übung5_1\Übung5_1.cpp(59,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Übung5_1\Übung5_1.cpp(61,34): warning C4018: '<': signed/unsigned mismatch
+  Übung5_1.vcxproj -> C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Debug\Übung5_1.exe

@@ -1,0 +1,3 @@
+﻿  AufgabeSkript1_116.cpp
+C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\AufgabeSkript1_116\AufgabeSkript1_116.cpp(36,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AufgabeSkript1_116.vcxproj -> C:\Users\fritsch\Documents\Projekte\C++\VS.01-Programmieren1\Programmieren1\Debug\AufgabeSkript1_116.exe
